@@ -72,7 +72,39 @@ El flujo general del sistema es:
 - NumPy
 - Cámara funcional
 
-Instalación de dependencias (ejemplo):
+---
 
-```bash
-pip install opencv-python face_recognition numpy
+## 📈 Limitaciones Actuales
+
+- Precisión no validada con métricas estadísticas formales
+- No implementa autenticación multifactor
+- Dependencia de condiciones de iluminación
+- Base de datos de rostros local y básica
+
+---
+
+## 🧪 Posibles Mejoras Futuras
+
+- Registro automático de intentos fallidos (log de intrusos)
+- Implementación de doble factor (facial + contraseña)
+- Optimización de rendimiento
+- Mejora de precisión con modelos más avanzados
+- Interfaz gráfica de configuración
+
+---
+
+## 🎯 Aprendizajes del Proyecto
+
+### Este proyecto permitió trabajar con:
+- Integración entre software y sistema operativo
+- Manejo de eventos en tiempo real
+- Procesamiento de imágenes
+- Reconocimiento de patrones faciales
+- Automatización mediante scripting
+- Diseño de arquitectura de seguridad
+
+---
+
+# 👨‍💻 Autor:
+
+## Nicolás Garrido Novas
